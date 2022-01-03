@@ -1,1 +1,3 @@
 # CodeSeguros
+
+A CodeIgniter App
